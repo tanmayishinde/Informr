@@ -1,2 +1,2 @@
 # Informr
-This application is an Beginner's approch to build a news application.
+This application is an Beginner's approach to build a news application.
