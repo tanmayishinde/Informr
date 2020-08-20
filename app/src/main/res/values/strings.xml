@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Informr</string>
+    <string name="appwidget_text">Informr</string>
+    <string name="add_widget">Add widget</string>
+</resources>
